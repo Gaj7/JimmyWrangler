@@ -1,0 +1,6 @@
+The following python libraries are required to run the source code:
+ - numpy
+ - pandas
+ - matplotlib
+
+In addition, you will need the jupyter package to view the jupyter notebook.
