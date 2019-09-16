@@ -7,3 +7,6 @@ code in the notebook, without any commentary or plots. Finally, `data` contains 
 "csv"s used for this project, obtained from Kaggle.
  - https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory/
  - https://www.kaggle.com/jessevent/all-crypto-currencies
+
+## On Github's notebook view
+It seems the notebook does not load when viewed on Github. However, it works when viewed locally.
